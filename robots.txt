@@ -1,0 +1,4 @@
+Sitemap: BardiaT0.github.io/BardiaT0.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
