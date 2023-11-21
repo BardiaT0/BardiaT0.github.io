@@ -14,4 +14,4 @@ You can also connect with me on social media:
 
 </div>
 ~~~
-I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
+I'm always open to opportunities and collaborations, so don't hesitate to reach out!
